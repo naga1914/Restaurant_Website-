@@ -65,7 +65,7 @@ const cuisineImages = {
   ],
   japanese: [
     "img/ja_food_1.jpg",
-    "img/ja_food_2.jpg",
+    "img/ja_food-2.jpg",
     "img/ja_food_3.jpg",
     "img/ja_food_4.jpg",
   ],
